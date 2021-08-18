@@ -1,0 +1,9 @@
+D:\Test Appliccations\crud-demo\Demo.Database\bin\Debug\netstandard2.1\Demo.Database.deps.json
+D:\Test Appliccations\crud-demo\Demo.Database\bin\Debug\netstandard2.1\Demo.Database.dll
+D:\Test Appliccations\crud-demo\Demo.Database\bin\Debug\netstandard2.1\Demo.Database.pdb
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.csprojAssemblyReference.cache
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.AssemblyInfoInputs.cache
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.AssemblyInfo.cs
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.csproj.CoreCompileInputs.cache
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.dll
+D:\Test Appliccations\crud-demo\Demo.Database\obj\Debug\netstandard2.1\Demo.Database.pdb
